@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "name": "Grand Plaza Hotel",
+        "location": "Metropolis City",
+        "price": 200,
+        "ratings": 4.7,
+        "amenities": "Free Wi-Fi, Pool, Spa",
+        "description": "Experience luxury at its best in the heart of Metropolis City. Grand Plaza Hotel offers stunning views and world-class amenities.",
+        "image": "https://cdn.pixabay.com/photo/2016/11/17/09/28/hotel-1831072_640.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Sunset Resort",
+        "location": "Beachfront Paradise",
+        "price": 180,
+        "ratings": 4.5,
+        "amenities": "Beach Access, Restaurant, Fitness Center",
+        "description": "Unwind in the tranquility of Beachfront Paradise at Sunset Resort. A perfect getaway with pristine beaches and breathtaking sunsets.",
+        "image": "https://media.istockphoto.com/id/119926339/photo/resort-swimming-pool.jpg?s=612x612&w=0&k=20&c=9QtwJC2boq3GFHaeDsKytF4-CavYKQuy1jBD2IRfYKc="
+    },
+    {
+        "id": 3,
+        "name": "Mountain Retreat Lodge",
+        "location": "Serenity Valley",
+        "price": 150,
+        "ratings": 4.8,
+        "amenities": "Hiking Trails, Spa, Mountain Views",
+        "description": "Escape to the peaceful surroundings of Serenity Valley. Mountain Retreat Lodge offers a cozy retreat with stunning mountain views.",
+        "image": "https://media.istockphoto.com/id/1453121684/photo/modern-hotel-room-with-double-bed-night-tables-and-day-sofa-bed.webp?b=1&s=170667a&w=0&k=20&c=0MGlloRKwQjR_xeIt0s0IklHyt2bQHDNoFvKml3BQPc="
+    },
+    {
+        "id": 4,
+        "name": "Urban Oasis Inn",
+        "location": "City Center",
+        "price": 120,
+        "ratings": 4.2,
+        "amenities": "Free Wi-Fi, Breakfast, Gym",
+        "description": "Discover comfort and convenience at Urban Oasis Inn. Centrally located in the bustling City Center, it's the perfect choice for urban explorers.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuearQC7w_Hoh4XBU1rgm7xvQXdR3eY5WAJ207a95ySTJm51Iyn9qL7HHr8lNBgmAzZSU&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Lakeside Lodge",
+        "location": "Tranquil Lakeside",
+        "price": 160,
+        "ratings": 4.6,
+        "amenities": "Lake Access, Kayaking, Nature Trails",
+        "description": "Enjoy serenity by the lake at Lakeside Lodge. A retreat surrounded by nature, offering peace and relaxation.",
+        "image": "https://media.istockphoto.com/id/472899538/photo/downtown-cleveland-hotel-entrance-and-waiting-taxi-cab.jpg?s=612x612&w=0&k=20&c=rz-WSe_6gKfkID6EL9yxCdN_UIMkXUBsr67884j-X9o="
+    },
+    {
+        "id": 6,
+        "name": "Skyline View Hotel",
+        "location": "Downtown Heights",
+        "price": 220,
+        "ratings": 4.9,
+        "amenities": "City Views, Rooftop Bar, Spa",
+        "description": "Elevate your experience at Skyline View Hotel. Located in the vibrant Downtown Heights, it offers breathtaking views of the city skyline.",
+        "image": "https://images.unsplash.com/photo-1596386461350-326ccb383e9f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhvdGVsc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": 7,
+        "name": "Harbor Lights Resort",
+        "location": "Coastal Harbor",
+        "price": 190,
+        "ratings": 4.4,
+        "amenities": "Beachfront, Pool, Restaurant",
+        "description": "Experience coastal charm at Harbor Lights Resort. Nestled by the sea, it's a perfect destination for those seeking seaside tranquility.",
+        "image": "https://png.pngtree.com/thumb_back/fh260/background/20220311/pngtree-five-star-hotel-with-side-door-and-wooden-door-image_990211.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Green Valley Retreat",
+        "location": "Nature's Haven",
+        "price": 140,
+        "ratings": 4.5,
+        "amenities": "Nature Trails, Garden, Yoga Classes",
+        "description": "Immerse yourself in nature at Green Valley Retreat. Surrounded by lush greenery, it's a haven for nature enthusiasts.",
+        "image": "https://png.pngtree.com/thumb_back/fh260/background/20220311/pngtree-lounge-antique-five-star-hotel-image_990218.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Pinnacle Heights Hotel",
+        "location": "Mountain Peak",
+        "price": 250,
+        "ratings": 4.8,
+        "amenities": "Luxury Spa, Helipad, Mountain Views",
+        "description": "Reach new heights of luxury at Pinnacle Heights Hotel. Perched on a mountain peak, it offers a luxurious retreat with stunning views.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRjJP4BKzjKOfWkV8yVU_q5B1scHRU-LArO4SIGvm1qy0IxQji97-6X98f1F8-Mi5vMtQ&usqp=CAU"
+    },
+    {
+        "id": 10,
+        "name": "Royal Garden Inn",
+        "location": "Botanical Paradise",
+        "price": 180,
+        "ratings": 4.6,
+        "amenities": "Botanical Gardens, Pool, Fine Dining",
+        "description": "Step into a botanical paradise at Royal Garden Inn. A lush oasis of tranquility, perfect for those who appreciate nature's beauty.",
+        "image": "https://media.istockphoto.com/id/109350324/photo/modern-lounge-chairs-next-to-swimming-pool.webp?s=1024x1024&w=is&k=20&c=0SCKMVsSDaETLSDQKbLzev40uZ1HagRZCtLrj3Twu_Q="
+    },
+    {
+        "id": 11,
+        "name": "Golden Sands Resort",
+        "location": "Desert Oasis",
+        "price": 200,
+        "ratings": 4.7,
+        "amenities": "Desert Tours, Spa, Oasis Views",
+        "description": "Escape to the mesmerizing beauty of the Desert Oasis at Golden Sands Resort. A luxurious retreat in the heart of the desert.",
+        "image": "https://www.lemontreehotels.com/assets/front/images/key-select-udaipur-hotel.webp"
+    },
+    {
+        "id": 12,
+        "name": "Alpine Lodge",
+        "location": "Alpine Retreat",
+        "price": 170,
+        "ratings": 4.5,
+        "amenities": "Ski Resort, Fireplace, Mountain Views",
+        "description": "Experience the charm of the Alpine Retreat at Alpine Lodge. Surrounded by snow-capped peaks, it's a perfect destination for winter enthusiasts.",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/fortune/hotel-listing/hotel-card-listing/fortunepark-aligarh.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Countryside Manor",
+        "location": "Rural Serenity",
+        "price": 130,
+        "ratings": 4.3,
+        "amenities": "Countryside Views, Outdoor Dining, Horseback Riding",
+        "description": "Embrace the tranquility of Rural Serenity at Countryside Manor. A charming escape in the heart of the countryside.",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/ed/95/07/limak-eurasia-luxury.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "id": 14,
+        "name": "Island Paradise Resort",
+        "location": "Tropical Island",
+        "price": 240,
+        "ratings": 4.9,
+        "amenities": "Private Beach, Water Sports, Tropical Gardens",
+        "description": "Discover paradise on a Tropical Island at Island Paradise Resort. Pristine beaches, azure waters, and luxurious accommodations await.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2XPoxrYEb_X1HX5-qfMRcuLBp2qwvneUPtg&s"
+    },
+    {
+        "id": 15,
+        "name": "Historic Heritage Hotel",
+        "location": "Old Town Square",
+        "price": 160,
+        "ratings": 4.6,
+        "amenities": "Historic Tours, Fine Dining, Antique Decor",
+        "description": "Step back in time at the Historic Heritage Hotel. Located in Old Town Square, it offers a blend of history and modern comfort.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAJPiLqIMDxia_Uuf6oLbZewEseotgFusrqw&s"
+    },
+    {
+        "id": 16,
+        "name": "Majestic Mansion",
+        "location": "Elegant District",
+        "price": 280,
+        "ratings": 4.8,
+        "amenities": "Private Butler, Ballroom, Luxury Spa",
+        "description": "Indulge in opulence at the Majestic Mansion. Nestled in the Elegant District, it's a symbol of luxury and grandeur.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2JeLflKzHbiITr2iiqql3VwQYGB70Py5SkQ&s"
+    },
+    {
+        "id": 17,
+        "name": "Zen Garden Retreat",
+        "location": "Tranquil Zen Garden",
+        "price": 150,
+        "ratings": 4.4,
+        "amenities": "Zen Meditation, Japanese Tea House, Garden Views",
+        "description": "Find inner peace at Zen Garden Retreat. Surrounded by a tranquil Zen garden, it's a haven for relaxation and rejuvenation.",
+        "image": "https://media.istockphoto.com/id/503016934/photo/entrance-of-luxury-hotel.jpg?s=612x612&w=0&k=20&c=DXFzucB2xWGf3PI6_yjhLKDvrFcGlOpOjXh6KDI8rqU="
+    },
+    {
+        "id": 18,
+        "name": "Riverside Haven",
+        "location": "Riverside Serenity",
+        "price": 170,
+        "ratings": 4.5,
+        "amenities": "Riverside Views, Canoeing, Outdoor Picnic Area",
+        "description": "Experience serenity by the river at Riverside Haven. A peaceful retreat with breathtaking views of Riverside Serenity.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386516730.jpg?k=010021c4b79cf89b87e870b394f725293dc1b4d422a19c1da36869aebcc63904&o=&hp=1"
+    },
+    {
+        "id": 19,
+        "name": "Silver Skies Hotel",
+        "location": "Skyline Heights",
+        "price": 210,
+        "ratings": 4.7,
+        "amenities": "Skyline Views, Rooftop Lounge, Gourmet Dining",
+        "description": "Reach for the silver skies at Silver Skies Hotel. Perched in Skyline Heights, it offers a luxurious escape with panoramic views.",
+        "image": "https://www.lemontreehotels.com/uploads/hotelslider/29_46_2023_05_46_02Facade-(Night).jpg"
+    },
+    {
+        "id": 20,
+        "name": "Charming Cottage Inn",
+        "location": "Quaint Village",
+        "price": 140,
+        "ratings": 4.2,
+        "amenities": "Cozy Fireplace, Village Walks, Breakfast Buffet",
+        "description": "Experience charm and coziness at Charming Cottage Inn. Located in a quaint village, it's a perfect retreat for a peaceful getaway.",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/PK/HU/MC/43012037/hotel-room-interiors-designing-services-500x500.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Sapphire Sands Resort",
+        "location": "Crystal Coast",
+        "price": 230,
+        "ratings": 4.8,
+        "amenities": "Crystal-clear Waters, Waterfront Dining, Spa",
+        "description": "Discover the beauty of the Crystal Coast at Sapphire Sands Resort. Pristine sands, crystal-clear waters, and luxurious accommodations await.",
+        "image": "https://www.hilton.com/im/en/CZMPCHH/7888781/czmpc-pool-3.jpg?impolicy=crop&cw=5000&ch=3203&gravity=NorthWest&xposition=0&yposition=64&rw=1280&rh=820"
+    },
+    {
+        "id": 22,
+        "name": "Wilderness Lodge",
+        "location": "Wildlife Sanctuary",
+        "price": 180,
+        "ratings": 4.5,
+        "amenities": "Nature Trails, Wildlife Safari, Campfire Nights",
+        "description": "Immerse yourself in nature at Wilderness Lodge. Located in a Wildlife Sanctuary, it's a perfect retreat for nature lovers.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO11SKrr8WC5AhiBR0FBWiHQwVCof_ZPAwyw&s"
+    },
+    {
+        "id": 23,
+        "name": "Regal Heights Hotel",
+        "location": "Regal District",
+        "price": 260,
+        "ratings": 4.9,
+        "amenities": "Regal Spa, High Tea Lounge, City Views",
+        "description": "Experience regal luxury at Regal Heights Hotel. Nestled in the Regal District, it's a symbol of elegance and sophistication.",
+        "image": "https://www.vibemunnar.com/images/family-friendly-hotels-munnar.webp"
+    },
+    {
+        "id": 24,
+        "name": "Golden Gate Retreat",
+        "location": "Golden Valley",
+        "price": 200,
+        "ratings": 4.6,
+        "amenities": "Tranquil Gardens, Meditation Classes, Modern Comforts",
+        "description": "Find tranquility in the heart of Golden Valley at Golden Gate Retreat. A peaceful escape with golden landscapes and modern amenities.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526600374.jpg?k=42545b85b657e46e9b4cb2efe5db845d9fce3b58a4c9429eb4680113e1c88d8c&o=&hp=1"
+    },
+    {
+        "id": 25,
+        "name": "Emerald Isle Resort",
+        "location": "Enchanted Isle",
+        "price": 250,
+        "ratings": 4.7,
+        "amenities": "Enchanted Gardens, Spa, Magical Ambiance",
+        "description": "Discover enchantment at Emerald Isle Resort.",
+        "image": "https://d245xcy5u3wmzt.cloudfront.net/assets/images/home/galle.jpg"
+    }
+]

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booking Confirmation</title>
+    <link rel="stylesheet" href="booking.css">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+    <h1>Booking Confirmation</h1>
+    <form id="booking-form">
+        <input type="hidden" id="hotelId">
+        <input type="hidden" id="customerId">
+        <div>
+            <label for="nights">Number of Nights:</label>
+            <input type="number" id="nights" required>
+        </div>
+        <div>
+            <label for="people">Number of People:</label>
+            <input type="number" id="people" required>
+        </div>
+        <div>
+            <label for="checkin">Check-in Time:</label>
+            <input type="datetime-local" id="checkin" required>
+        </div>
+        <div>
+            <label for="checkout">Check-out Time:</label>
+            <input type="datetime-local" id="checkout" required>
+        </div>
+        <div>
+            <label for="payment">Is Payment Done:</label>
+            <select id="payment" required>
+                <option value="yes">Yes</option>
+                <option value="no">No</option>
+            </select>
+        </div>
+        <div>
+            <button type="submit">Book Now</button>
+        </div>
+    </form>
+    <script src="booking.js"></script>
+</body>
+
+</html>

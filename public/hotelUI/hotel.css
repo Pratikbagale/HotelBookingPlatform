@@ -1,0 +1,91 @@
+/* Container Styling */
+.hotel-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    /* Background for the entire section */
+}
+
+/* Hotel Card Styling */
+.hotel-card {
+    background-color: #ffffff;
+    /* White card for a clean look */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.2s ease-in-out;
+}
+
+.hotel-card:hover {
+    transform: scale(1.05);
+    /* Slight scale on hover for interactivity */
+}
+
+/* Hotel Image Styling */
+.hotel-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    /* Ensure the image covers the area without distortion */
+}
+
+/* Hotel Content Styling */
+.hotel-content {
+    padding: 20px;
+}
+
+.hotel-name {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #343a40;
+    /* Dark grey for primary text */
+}
+
+.hotel-location,
+.hotel-price,
+.hotel-ratings,
+.hotel-amenities {
+    font-size: 1em;
+    color: #6c757d;
+    /* Soft grey for secondary text */
+    margin-bottom: 8px;
+}
+
+.hotel-price {
+    color: #007bff;
+    /* Highlight price with the primary blue color */
+}
+
+.hotel-ratings {
+    color: #ffc107;
+    /* Accent color for ratings */
+}
+
+.hotel-description {
+    font-size: 0.9em;
+    color: #495057;
+    /* Slightly darker grey for descriptions */
+    margin-top: 15px;
+}
+
+/* Button Styling */
+.btn-book-now {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    /* Primary blue for the button */
+    color: #ffffff;
+    /* White text for contrast */
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-book-now:hover {
+    background-color: #0056b3;
+    /* Darker blue on hover */
+}
